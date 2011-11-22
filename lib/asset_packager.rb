@@ -2,7 +2,6 @@ require 'tsort'
 require 'tempfile'
 require 'base64'
 require 'digest/md5'
-  
 
 class AssetPackager
   require 'sheller'
